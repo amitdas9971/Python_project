@@ -1,0 +1,1 @@
+This project demonstrates how to clean and preprocess datasets in Python using NumPy and Pandas. Data cleaning is a crucial step in data analysis and machine learning, ensuring that datasets are accurate, consistent, and ready for analysis. This project includes handling missing values, incorrect data types, duplicates, outliers, and inconsistent data
